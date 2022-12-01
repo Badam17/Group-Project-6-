@@ -4,4 +4,4 @@
 
 ## Created By
 
-McKeon Tanner, Bill Adam, 
+McKeon Tanner, Bill Adam, Luke Van Jelgerhuis
