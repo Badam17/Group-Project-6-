@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_init",
-  "spriteId": null,
+  "name": "o_quit",
+  "spriteId": {
+    "name": "s_quit",
+    "path": "sprites/s_quit/s_quit.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -22,14 +25,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "main_menu",
+    "path": "folders/Objects/main_menu.yy",
   },
 }

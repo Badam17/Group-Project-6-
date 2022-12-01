@@ -1,2 +1,6 @@
+randomize();
 
-room_goto(Room1);
+room_goto(MainMenu);
+
+global.GameOver = false;
+game_score = "";

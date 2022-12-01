@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_init",
-  "spriteId": null,
+  "name": "o_play",
+  "spriteId": {
+    "name": "s_play",
+    "path": "sprites/s_play/s_play.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -24,12 +27,11 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "main_menu",
+    "path": "folders/Objects/main_menu.yy",
   },
 }
