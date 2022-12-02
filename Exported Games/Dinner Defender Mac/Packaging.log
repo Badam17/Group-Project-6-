@@ -1,0 +1,165 @@
+2022-12-02 15:02:02 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fef22f407a0; archive(resolved)="<IDEArchive: 0x7fef1bee9cd0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fef22f407a0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fef1c1687b0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1ea76e70; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1b753210; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1c141fc0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1eac6ea0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1eab5bf0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef15a2a1d0; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1c1a1750; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fef1ec80f80; teamID='GRT6297XTV', teamName='Nick Heneisen', teamType='Individual', username='nheneisen@sbcglobal.net', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fef1c6bfe90; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="(null)">
+	<IDEDistributionContext: 0x7fef04e27c70; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="<IDEDistributionMethodDeveloperID: 0x7fef21b82180>", team="(null)">
+	<IDEDistributionContext: 0x7fef04e4a990; archive = "<IDEArchive: 0x7fef1bee9cd0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fef22f407a0>
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionCopyItemStep
+2022-12-02 15:02:02 +0000  Running /usr/bin/ditto '-V' '/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app'
+2022-12-02 15:02:02 +0000  >>> Copying /Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app 
+2022-12-02 15:02:02 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2022-12-02 15:02:02 +0000  5717 bytes for ./Contents/_CodeSignature/CodeResources
+2022-12-02 15:02:02 +0000  copying file ./Contents/MacOS/time_for_dinner ... 
+2022-12-02 15:02:02 +0000  8721184 bytes for ./Contents/MacOS/time_for_dinner
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/English.lproj/MainMenu.nib/keyedobjects-101300.nib ... 
+28225 bytes for ./Contents/Resources/English.lproj/MainMenu.nib/keyedobjects-101300.nib
+copying file ./Contents/Resources/English.lproj/MainMenu.nib/keyedobjects.nib ... 
+2022-12-02 15:02:02 +0000  36803 bytes for ./Contents/Resources/English.lproj/MainMenu.nib/keyedobjects.nib
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/English.lproj/InfoPlist.strings ... 
+2022-12-02 15:02:02 +0000  92 bytes for ./Contents/Resources/English.lproj/InfoPlist.strings
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/icon.icns ... 
+2022-12-02 15:02:02 +0000  90062 bytes for ./Contents/Resources/icon.icns
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/game.ios ... 
+2022-12-02 15:02:02 +0000  124412 bytes for ./Contents/Resources/game.ios
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/options.ini ... 
+2022-12-02 15:02:02 +0000  453 bytes for ./Contents/Resources/options.ini
+copying file ./Contents/Resources/splash.png ... 
+2022-12-02 15:02:02 +0000  14659 bytes for ./Contents/Resources/splash.png
+2022-12-02 15:02:02 +0000  copying file ./Contents/Resources/game.ini ... 
+2022-12-02 15:02:02 +0000  453 bytes for ./Contents/Resources/game.ini
+2022-12-02 15:02:02 +0000  copying file ./Contents/embedded.provisionprofile ... 
+2022-12-02 15:02:02 +0000  12506 bytes for ./Contents/embedded.provisionprofile
+2022-12-02 15:02:02 +0000  copying file ./Contents/Frameworks/libYoYoGamepad.dylib ... 
+2022-12-02 15:02:02 +0000  209616 bytes for ./Contents/Frameworks/libYoYoGamepad.dylib
+2022-12-02 15:02:02 +0000  copying file ./Contents/Info.plist ... 
+2022-12-02 15:02:02 +0000  1799 bytes for ./Contents/Info.plist
+2022-12-02 15:02:02 +0000  copying file ./Contents/PkgInfo ... 
+2022-12-02 15:02:02 +0000  8 bytes for ./Contents/PkgInfo
+2022-12-02 15:02:02 +0000  /usr/bin/ditto exited with 0
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-12-02 15:02:02 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fef1d9971b0; bundleID='(null)', path='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef22b8e060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef22bbb820; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='libYoYoGamepad', executablePath='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', hardenedRuntime='1'>'>
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionSymbolsStep
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionAppThinningStep
+2022-12-02 15:02:02 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionArchThinningStep
+2022-12-02 15:02:02 +0000  Running /Users/nickheneisen/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib' '-verify_arch' 'arm64e'
+2022-12-02 15:02:02 +0000  /Users/nickheneisen/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-12-02 15:02:02 +0000  Skipping architecture thinning for item "libYoYoGamepad.dylib" because arch "arm64e" wasn't found
+2022-12-02 15:02:02 +0000  Running /Users/nickheneisen/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/MacOS/time_for_dinner' '-verify_arch' 'arm64e'
+2022-12-02 15:02:02 +0000  /Users/nickheneisen/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-12-02 15:02:02 +0000  Skipping architecture thinning for item "time_for_dinner" because arch "arm64e" wasn't found
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionODRStep
+2022-12-02 15:02:02 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-12-02 15:02:02 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fef1d9971b0; bundleID='(null)', path='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef22b8e060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef1d539740; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='libYoYoGamepad', executablePath='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', hardenedRuntime='1'>'>
+2022-12-02 15:02:02 +0000  Running /usr/bin/xattr '-crs' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app'
+2022-12-02 15:02:03 +0000  /usr/bin/xattr exited with 0
+2022-12-02 15:02:03 +0000  Processing step: IDEDistributionCodesignStep
+2022-12-02 15:02:03 +0000  Entitlements for <IDEDistributionItem: 0x7fef1d9971b0; bundleID='(null)', path='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef22b8e060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef1d539740; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='libYoYoGamepad', executablePath='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', hardenedRuntime='1'>'>: {
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}
+2022-12-02 15:02:03 +0000  Entitlements for <IDEDistributionItem: 0x7fef1d9971b0; bundleID='(null)', path='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef22b8e060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef0a806750; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='libYoYoGamepad', executablePath='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', hardenedRuntime='1'>'> are: {
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}
+2022-12-02 15:02:03 +0000  Writing entitlements for <IDEDistributionItem: 0x7fef1d9971b0; bundleID='(null)', path='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef22b8e060; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef19a0e5d0; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='libYoYoGamepad', executablePath='<DVTFilePath:0x7fef0a83b4c0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>', hardenedRuntime='1'>'> to: /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/entitlements~~~cl0tHf
+2022-12-02 15:02:03 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B321555C130A5E75CB935C09B333052380A01C21' '--entitlements' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/entitlements~~~cl0tHf' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '--requirements' '=designated => anchor apple generic  and identifier "$self.identifier" and ((cert leaf[field.1.2.840.113635.100.6.1.9] exists) or ( certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists  and certificate leaf[subject.OU] = "GRT6297XTV" ))' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'
+2022-12-02 15:02:03 +0000  /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib: replacing existing signature
+2022-12-02 15:02:04 +0000  /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib: signed Mach-O universal (x86_64 arm64) [libYoYoGamepad]
+2022-12-02 15:02:04 +0000  /usr/bin/codesign exited with 0
+2022-12-02 15:02:04 +0000  Entitlements for <IDEDistributionItem: 0x7fef21b40230; bundleID='nickynoogames', path='<DVTFilePath:0x7fef177c2c70:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef1d627e80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef2069a110; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='nickynoogames', executablePath='<DVTFilePath:0x7fef1c3ad8d0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/MacOS/time_for_dinner'>', hardenedRuntime='1'>'>: {
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}
+2022-12-02 15:02:04 +0000  Entitlements for <IDEDistributionItem: 0x7fef21b40230; bundleID='nickynoogames', path='<DVTFilePath:0x7fef177c2c70:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef1d627e80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef1a6f2810; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='nickynoogames', executablePath='<DVTFilePath:0x7fef1c3ad8d0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/MacOS/time_for_dinner'>', hardenedRuntime='1'>'> are: {
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}
+2022-12-02 15:02:04 +0000  Writing entitlements for <IDEDistributionItem: 0x7fef21b40230; bundleID='nickynoogames', path='<DVTFilePath:0x7fef177c2c70:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fef1d627e80; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fef1ea140c0; name='Apple Development: nheneisen@sbcglobal.net (23SCA2JT58)', hash='7EAF1036DCC58DC31582C25BD8CAF3E9B6CD88FD', serialNumber='4D68D4E4C70B766C215460D255673370', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-12-02 02:05:26 +0000''>', entitlements='{
+    "com.apple.application-identifier" = "GRT6297XTV.nickynoogames";
+    "com.apple.developer.team-identifier" = GRT6297XTV;
+}', teamID='GRT6297XTV', identifier='nickynoogames', executablePath='<DVTFilePath:0x7fef1c3ad8d0:'/Users/nickheneisen/Library/Developer/Xcode/Archives/2022-12-02/time_for_dinner 12-2-22, 10.01 AM.xcarchive/Products/Applications/time_for_dinner.app/Contents/MacOS/time_for_dinner'>', hardenedRuntime='1'>'> to: /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/entitlements~~~a50z5k
+2022-12-02 15:02:04 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B321555C130A5E75CB935C09B333052380A01C21' '--entitlements' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/entitlements~~~a50z5k' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '--requirements' '=designated => anchor apple generic  and identifier "$self.identifier" and ((cert leaf[field.1.2.840.113635.100.6.1.9] exists) or ( certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists  and certificate leaf[subject.OU] = "GRT6297XTV" ))' '/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app'
+2022-12-02 15:02:04 +0000  /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app: replacing existing signature
+2022-12-02 15:02:04 +0000  /var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app: signed app bundle with Mach-O thin (x86_64) [nickynoogames]
+2022-12-02 15:02:04 +0000  /usr/bin/codesign exited with 0
+2022-12-02 15:02:04 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-12-02 15:02:04 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-12-02 15:02:04 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-12-02 15:02:04 +0000  Processing step: IDEDistributionSkipPackagingStep
+2022-12-02 15:02:04 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-12-02 15:02:04 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-12-02 15:02:04 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-12-02 15:02:04 +0000  IDEDistributionItem init <DVTFilePath:0x7fef22be8a10:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>
+2022-12-02 15:02:04 +0000  [OPTIONAL] Didn't find info dictionary for <DVTFilePath:0x7fef22be8a10:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>: Error Domain=DVTFoundationNSBundleAdditionsErrorDomain Code=1 "Couldn't load Info dictionary for <DVTFilePath:0x7fef22be8a10:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>" UserInfo={NSLocalizedDescription=Couldn't load Info dictionary for <DVTFilePath:0x7fef22be8a10:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>}
+2022-12-02 15:02:04 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fef22be8a10:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app/Contents/Frameworks/libYoYoGamepad.dylib'>
+2022-12-02 15:02:04 +0000  IDEDistributionItem init <DVTFilePath:0x7fef15acdc80:'/var/folders/sn/zhf5vrdn1bb_g7zxgb2gm_mm0000gn/T/XcodeDistPipeline.~~~kkf3Mn/Root/Applications/time_for_dinner.app'>
+2022-12-02 15:02:04 +0000  Processing step: IDEDistributionCreateManifestStep
+2022-12-02 15:02:04 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

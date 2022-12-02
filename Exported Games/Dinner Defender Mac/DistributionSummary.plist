@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>time_for_dinner</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>x86_64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1.0.0</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B321555C130A5E75CB935C09B333052380A01C21</string>
+				<key>dateExpires</key>
+				<string>2/1/27</string>
+				<key>type</key>
+				<string>Developer ID Application</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>x86_64</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B321555C130A5E75CB935C09B333052380A01C21</string>
+						<key>dateExpires</key>
+						<string>2/1/27</string>
+						<key>type</key>
+						<string>Developer ID Application</string>
+					</dict>
+					<key>entitlements</key>
+					<dict>
+						<key>com.apple.application-identifier</key>
+						<string>GRT6297XTV.nickynoogames</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>GRT6297XTV</string>
+					</dict>
+					<key>name</key>
+					<string>libYoYoGamepad.dylib</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>GRT6297XTV</string>
+						<key>name</key>
+						<string>Nick Heneisen</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>com.apple.application-identifier</key>
+				<string>GRT6297XTV.nickynoogames</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GRT6297XTV</string>
+			</dict>
+			<key>name</key>
+			<string>time_for_dinner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9905a414-9771-4866-bb4c-b9b26e4c2d9e</string>
+				<key>dateExpires</key>
+				<string>11/27/40</string>
+				<key>name</key>
+				<string>profile for game</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GRT6297XTV</string>
+				<key>name</key>
+				<string>Nick Heneisen</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
