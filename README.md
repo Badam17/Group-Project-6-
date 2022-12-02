@@ -5,7 +5,7 @@ Dinner Defender
 
 ## Created By
 
-McKeon Tanner, Bill Adam, Luke Van Jelgerhuis
+McKeon Tanner, Bill Adam, Luke Van Jelgerhuis, Nick Heneisen
 
 ## Roles
 
